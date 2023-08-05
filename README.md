@@ -15,6 +15,7 @@ This repository serves as a guide and reference for understanding Event-Driven A
  - Resilience: Event-driven systems are robust and fault-tolerant, as events can be recovered and processed even if components experience temporary failures.
 
  - Responsiveness: EDA facilitates real-time responses to events, making it suitable for applications that require instantaneous data synchronization and actions.
+ 
 
 ## Getting Started
  - Clone the repository to your local machine.
